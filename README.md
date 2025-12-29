@@ -1,78 +1,61 @@
-📊 Sales & Customer Analytics Dashboard
+# Sales & Customer Dashboard | Business Intelligence Project
 
-An end-to-end business intelligence and data visualization project designed to analyze sales performance, customer behavior, product contribution, and regional trends using an interactive dashboard built in Tableau.
+## Overview
+This project presents an interactive **Sales and Customer Analytics Dashboard** designed to analyze business performance, customer behavior, and revenue trends. The dashboard enables stakeholders to make **data-driven decisions** by providing clear visual insights into sales performance, customer segmentation, and key business KPIs.
 
-❓ Problem Statement
+The project demonstrates practical skills in **business intelligence, data visualization, and analytical storytelling** using industry-standard BI tools.
 
-Businesses often collect large volumes of sales, customer, and product data across multiple sources. However, without a centralized analytical view, organizations struggle to:
+---
 
-Monitor sales performance over time
+## Objectives
+- Analyze overall sales performance and revenue trends
+- Understand customer behavior and segmentation
+- Identify high-performing products, regions, and customers
+- Track key business KPIs through interactive dashboards
+- Enable decision-making through visual insights
 
-Identify high-value customers and products
+---
 
-Understand regional demand and market contribution
+## Skills Demonstrated
+- Business Intelligence (BI)
+- Data Visualization & Dashboard Design
+- Sales and Customer Analytics
+- KPI Identification and Tracking
+- Data Cleaning and Preparation
+- Analytical Thinking and Insight Generation
+- Data-Driven Storytelling
 
-Track key KPIs efficiently for decision-making
+---
 
-The lack of an integrated dashboard results in delayed insights, fragmented analysis, and reactive business strategies.
-This project addresses the problem by developing a single, interactive dashboard that consolidates multiple datasets into actionable insights.
+## Tools and Technologies
+- Tableau / BI Tool
+- Data Visualization Techniques
+- Aggregation and Filtering
+- Calculated Fields and KPIs
 
-🔍 Project Overview
+---
 
-This dashboard combines data from Orders, Customers, Products, and Locations to deliver a 360-degree view of business operations. Interactive filters and KPIs allow users to explore data dynamically and uncover hidden trends that drive revenue and growth.
+## Dashboard Features
+- Total Sales, Profit, and Customer Count KPIs
+- Sales trends over time
+- Region-wise and category-wise performance analysis
+- Customer segmentation and contribution analysis
+- Top-performing and underperforming products
+- Interactive filters for dynamic analysis
 
-📌 Key Insights Visualized
+---
 
-📈 Sales Trends Analysis
-Identifies monthly and yearly sales patterns, seasonality, and overall growth trajectory.
+## Key Insights
+- Identified high-revenue regions and customer segments
+- Highlighted products contributing most to overall sales
+- Observed seasonal and trend-based sales patterns
+- Analyzed customer distribution and purchasing behavior
+- Provided actionable insights for business growth
 
-👥 Customer Analysis
-Highlights customer contribution to revenue and helps identify repeat and high-value customers.
+---
 
-📦 Product Performance
-Compares product-wise sales to identify best-selling and underperforming products.
-
-🌍 Geographical Analysis
-Visualizes region-wise sales and customer concentration to assess market penetration.
-
-🧾 Order-Level Metrics
-Tracks total orders, average sales per order, and revenue distribution.
-
-🛠 Tools & Technologies
-
-Tableau – Dashboard creation & visual storytelling
-
-CSV Datasets – Orders, Customers, Products, Locations
-
-Analytical Techniques – KPI tracking, trend analysis, comparative analysis, filtering
-
-💡 Business Recommendations
-
-Based on the dashboard insights, the following business actions are recommended:
-
-Focus on High-Revenue Customers
-Introduce loyalty programs and personalized offers for top-contributing customers.
-
-Optimize Product Portfolio
-Increase promotion of high-performing products and re-evaluate low-performing ones.
-
-Regional Strategy Improvement
-Strengthen presence in underperforming regions through targeted marketing and pricing strategies.
-
-Seasonal Demand Planning
-Align inventory and marketing efforts with peak sales periods identified in trend analysis.
-
-Data-Driven Decision Making
-Use real-time dashboards instead of static reports to improve operational efficiency.
-
-🎯 Conclusion
-
-This project demonstrates how raw transactional data can be transformed into meaningful business intelligence through effective data visualization. By integrating multiple datasets into a unified dashboard, stakeholders gain:
-
-Faster access to insights
-
-Improved sales monitoring
-
-Better strategic and operational decisions
-
-The project showcases strong skills in data analysis, business understanding, and visualization, making it highly relevant for Data Analyst, Business Analyst, and BI Fresher roles.
+## Business Impact
+- Helps management monitor sales performance efficiently
+- Supports strategic planning and forecasting
+- Improves customer targeting and retention strategies
+- Enables quick identification of business opportunities and risks
